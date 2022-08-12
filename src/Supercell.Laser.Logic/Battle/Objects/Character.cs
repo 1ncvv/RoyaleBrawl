@@ -360,7 +360,7 @@
 
             m_lastSelfHealTick = ticksGone;
 
-            int heal = m_maxHitpoints / 6;
+            int heal = 13 * m_maxHitpoints / 100;
             CauseDamage(this, -heal, false);
 
             BattlePlayer player = GameObjectManager.GetBattle().GetPlayerWithObject(GetGlobalID());
