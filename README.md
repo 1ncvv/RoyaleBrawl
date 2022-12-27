@@ -1,7 +1,7 @@
 # RoyaleBrawl
 Private brawl stars server with PvP Battles (v27.269)
 
-![Screenshot](https://github.com/xeondev1337/RoyaleBrawl/blob/main/screenshots/ingame.jpg)
+![Screenshot](https://github.com/chainsawy/RoyaleBrawl/blob/main/screenshots/ingame.jpg)
 
 ## [DOWNLOAD CLIENT](https://drive.google.com/file/d/1DAZRiVBqTwVrE9IivYz0DOroFcg3YFoq/view?usp=sharing)
 
